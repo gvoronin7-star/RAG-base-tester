@@ -44,3 +44,10 @@ reports/
 *.md
 !README*.md
 !AUTHORS
+!API.md
+!CHANGELOG.md
+!VERSION.md
+!LICENSE.md
+!CONTRIBUTING.md
+!DOCS.md
+!TROUBLESHOOTING.md
