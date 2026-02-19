@@ -1,0 +1,21 @@
+# RAG-чат: Бенгальские кошки v2.5.0
+# Зависимости для работы RAG-системы (Production Release)
+
+# OpenAI SDK
+openai>=1.12.0
+
+# FAISS для векторного поиска
+faiss-cpu>=1.8.0
+
+# Переменные окружения
+python-dotenv>=1.0.0
+
+# NumPy для работы с массивами
+numpy>=1.24.0
+
+# Sentence Transformers (для совместимости с FAISS)
+sentence-transformers>=2.2.0
+
+# Colorama для цветного вывода
+colorama>=0.4.6
+

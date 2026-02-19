@@ -1,0 +1,9 @@
+{
+  "model_name": "text-embedding-3-small",
+  "embedding_dim": 1536,
+  "total_vectors": 210,
+  "db_type": "faiss",
+  "created_at": "2026-02-18T22:48:57.039931",
+  "index_path": "temp_rag_processing\\vector_db\\index.faiss",
+  "dataset_path": "temp_rag_processing\\vector_db\\dataset.json"
+}
